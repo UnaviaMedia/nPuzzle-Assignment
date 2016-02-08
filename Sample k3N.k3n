@@ -1,0 +1,15 @@
+<nPuzzleGame>
+	<BoardSize width="3" height="3" />
+	<OpenSquare openX="2" openY="2" />
+	<SquaresArray>
+		<Square squareX="0" squareY="0" squareValue="1" />
+		<Square squareX="1" squareY="0" squareValue="2" />
+		<Square squareX="2" squareY="0" squareValue="3" />
+		<Square squareX="0" squareY="1" squareValue="4" />
+		<Square squareX="1" squareY="1" squareValue="5" />
+		<Square squareX="2" squareY="1" squareValue="6" />
+		<Square squareX="0" squareY="2" squareValue="7" />
+		<Square squareX="1" squareY="2" squareValue="8" />
+	</SquaresArray>
+	<MoveCounter counter="3" />
+</nPuzzleGame>
